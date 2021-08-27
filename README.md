@@ -1,4 +1,8 @@
 ## Comandos
+
+![dio](https://user-images.githubusercontent.com/72028645/131164821-c3509c16-014a-4e96-9420-bd21a6bc942f.png)
+
+
 Cria a base do projeto .NET:
 >dotnet new console
 
