@@ -5,6 +5,9 @@ Reforcei meu conhecimento em Programação Orientada a Objetos (POO) em C# com u
 - Conhecimento em C# e .NET
 - IDE
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Comandos
 Cria a base do projeto .NET:
 >dotnet new console
